@@ -1,3 +1,11 @@
+/**
+ * ClassName:Flight
+ * @Author:Derron
+ * @Version:1.0
+ * Course:ITEC 2140
+ * Date: 3/18/2024
+ */
+
 // Define the Flight interface with a fly() method
 interface Flight {
     void fly();
